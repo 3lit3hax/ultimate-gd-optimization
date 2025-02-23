@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkultimate_gd_optimization=self.webpackChunkultimate_gd_optimization||[]).push([[742],{7093:t=>{t.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
